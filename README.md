@@ -7,7 +7,6 @@ An application that allows business owners to view and manage employees, roles, 
 ## Contents
 * [Usage](#Usage)
     * [Video Demo](#Video-Demo)
-* [Tools & Resources](#Tools & Resources)
 * [Questions](#Questions)
 * [Credits](#Credits)
 
